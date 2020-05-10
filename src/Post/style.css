@@ -1,0 +1,48 @@
+body{
+    background-color: #282c34;
+    color: white;
+}
+.post{
+
+}
+.userBar{
+   display: flex;
+    padding: 30px 0;
+}
+.userImg{
+    width: 100px;
+    padding: 0 50px;
+    border-radius: 50%;
+}
+.userText{
+}
+.userName{
+    font-size: 30px;
+    padding: 0 25px 0 0;
+}
+.nickname{
+    color: gray;
+    margin-right: 15px;
+}
+.userName:after{
+    content: url("https://img.icons8.com/flat_round/30/000000/checkmark.png");
+    position: relative;
+    top: 7px;
+    left: 6px;
+}
+.date{
+    font-size: 17px;
+}
+p{
+    font-size: 20px;
+}
+.imgCont{
+padding-left: 10%;
+}
+.contentImg {
+    border-radius: 5%;
+
+}
+.likeBar span{
+    margin: 0 170px;
+}
