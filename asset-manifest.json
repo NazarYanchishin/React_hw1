@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http;//NazarYanchishin.github.io/React_hw1/static/css/main.da705ce2.chunk.css",
+    "main.js": "/http;//NazarYanchishin.github.io/React_hw1/static/js/main.b54f2f8c.chunk.js",
+    "main.js.map": "/http;//NazarYanchishin.github.io/React_hw1/static/js/main.b54f2f8c.chunk.js.map",
+    "runtime-main.js": "/http;//NazarYanchishin.github.io/React_hw1/static/js/runtime-main.0673d066.js",
+    "runtime-main.js.map": "/http;//NazarYanchishin.github.io/React_hw1/static/js/runtime-main.0673d066.js.map",
+    "static/js/2.1b3bf2d4.chunk.js": "/http;//NazarYanchishin.github.io/React_hw1/static/js/2.1b3bf2d4.chunk.js",
+    "static/js/2.1b3bf2d4.chunk.js.map": "/http;//NazarYanchishin.github.io/React_hw1/static/js/2.1b3bf2d4.chunk.js.map",
+    "index.html": "/http;//NazarYanchishin.github.io/React_hw1/index.html",
+    "precache-manifest.cbd8cfc75be1890f7516042732a40b5e.js": "/http;//NazarYanchishin.github.io/React_hw1/precache-manifest.cbd8cfc75be1890f7516042732a40b5e.js",
+    "service-worker.js": "/http;//NazarYanchishin.github.io/React_hw1/service-worker.js",
+    "static/css/main.da705ce2.chunk.css.map": "/http;//NazarYanchishin.github.io/React_hw1/static/css/main.da705ce2.chunk.css.map",
+    "static/js/2.1b3bf2d4.chunk.js.LICENSE.txt": "/http;//NazarYanchishin.github.io/React_hw1/static/js/2.1b3bf2d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0673d066.js",
+    "static/js/2.1b3bf2d4.chunk.js",
+    "static/css/main.da705ce2.chunk.css",
+    "static/js/main.b54f2f8c.chunk.js"
+  ]
+}
